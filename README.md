@@ -1,7 +1,7 @@
 
 
 <h1>Olá! Eu sou Igor Nicácio 👋</h1>
-
+<img width="100%" src="https://github.com/Igor-Nicacio/Igor-Nic-cio/blob/23a73ad5b4836ed326f8aa3e46f4ad73942c9aa7/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png" alt="my banner"> 
 
 <p>
   💡 Cientista de dados com foco em desenvolvimento de ETLs, modelos de Clusterização e extração de dados <br>
