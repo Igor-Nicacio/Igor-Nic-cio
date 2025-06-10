@@ -3,11 +3,10 @@
 <h1>Olá! Eu sou Igor Nicácio 👋</h1>
 
 
-<p align="center">
+<p>
   💡 Cientista de dados com foco em desenvolvimento de ETLs, modelos de ML e extração de dados <br>
   🧠 Explorando Machine learning, Extração e visualização de dados.<br>
 </p>
----
 
 ## 🌐 Vamos nos conectar
 
