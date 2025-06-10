@@ -4,10 +4,16 @@
 
 
 <p>
-  💡 Cientista de dados com foco em desenvolvimento de ETLs, modelos de ML e extração de dados <br>
-  🧠 Explorando Machine learning, Extração e visualização de dados.<br>
+  💡 Cientista de dados com foco em desenvolvimento de ETLs, modelos de Clusterização e extração de dados <br>
 </p>
-
+  ## ⚒️ Ferramentas
+<p>
+  * Python
+  * SQL
+  * Power BI 
+  * R
+  * Tensorflow e Sckit-Learn
+</p>
 ## 🌐 Conecte-se comigo
 
 <p>
