@@ -8,11 +8,11 @@
 </p>
   ## ⚒️ Ferramentas
 <p>
-  * Python
-  * SQL
-  * Power BI 
-  * R
-  * Tensorflow e Sckit-Learn
+  * Python </br>
+  * SQL</br>
+  * Power BI </br>
+  * R</br>
+  * Tensorflow e Sckit-Learn</br>
 </p>
 ## 🌐 Conecte-se comigo
 
