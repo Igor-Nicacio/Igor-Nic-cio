@@ -7,6 +7,8 @@
   💡 Cientista de dados com foco em desenvolvimento de ETLs, modelos de Clusterização e extração de dados <br>
 </p>
   ## ⚒️ Ferramentas
+
+  
 <p>
   * Python </br>
   * SQL</br>
