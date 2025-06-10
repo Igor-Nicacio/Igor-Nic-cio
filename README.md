@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align="center">
+<p>
   <img src="https://link-para-o-seu-banner.com/banner.png" alt="Banner" />
 </p>
 
@@ -21,12 +21,4 @@
   <a href="https://www.kaggle.com/igornicaciosilva" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-</p>
-
----
-
----
-
-<p align="center">
-  ✨ Obrigado por visitar meu perfil! ✨
 </p>
