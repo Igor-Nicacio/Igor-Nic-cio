@@ -1,9 +1,6 @@
-<!-- Banner -->
-<p>
-  <img src="https://link-para-o-seu-banner.com/banner.png" alt="Banner" />
-</p>
 
-<h1 align="center">Olá! Eu sou Igor Nicácio 👋</h1>
+
+<h1>Olá! Eu sou Igor Nicácio 👋</h1>
 
 
 <p align="center">
