@@ -7,8 +7,6 @@
   💡 Cientista de dados com foco em desenvolvimento de ETLs, modelos de Clusterização e extração de dados <br>
 </p>
   <h2> ⚒️ Ferramentas</h2>
-</br>
-  
 <p>
   * Python </br>
   * SQL</br>
@@ -17,7 +15,7 @@
   * Tensorflow e Sckit-Learn</br>
 </p>
 <h2> 🌐 Conecte-se comigo </h2>
-</br>
+
 <p>
   <a href="https://www.linkedin.com/in/igornicacio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
